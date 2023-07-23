@@ -4,7 +4,7 @@ date: 2022-10-09
 # weight: 1
 tags: ["first","travel"]
 author: "David Chung"
-description: "My first post on this site! I've always wanted to consolidate my travel notes into one website and finally got around to doing it. This post is a little late considering my trip was over a year ago but I figured it's better late than never."
+description: "My first post on this site! I've always wanted to consolidate my travel notes into a website and finally got around to doing it. This post is a little late considering my trip was over a year ago but I figured it's better late than never."
 canonicalURL: "https://davidchung.me/notes/alberta2021" # url of post
 searchHidden: false
 showToc: true
