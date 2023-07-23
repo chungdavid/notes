@@ -10,9 +10,9 @@ searchHidden: false
 showToc: true
 hideSummary: true
 cover:
-    image: "<img url>" # image path/url
-    alt: "img alt text" # alt text
-    caption: "img caption" # display caption under cover
+    image: "tent_ridge.jpg" # image path/url
+    alt: "View from Tent Ridge Horseshoe trail" # alt text
+    caption: "View from Tent Ridge" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 
